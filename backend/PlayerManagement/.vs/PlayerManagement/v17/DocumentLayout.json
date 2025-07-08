@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\migrations\\20250708083724_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\migrations\\20250708083724_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\dtos\\playerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\dtos\\playerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\playermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\playermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\controllers\\sportstypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\controllers\\sportstypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\controllers\\religionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\controllers\\religionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\controllers\\genderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\controllers\\genderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\controllers\\bloodgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\controllers\\bloodgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\models\\playertrainingassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\models\\playertrainingassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|c:\\users\\fahim\\desktop\\angularfinalproject\\miniproject\\playermanagement\\playermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8CAD6-5207-4CC2-8941-2AA6201582E0}|PlayerManagement\\PlayerManagement.csproj|solutionrelative:playermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fahim\\Desktop\\Team_Project_New\\MiniProject\\PlayerManagement\\PlayerManagement\\Migrations\\20250703220638_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250708083724_init.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Migrations\\20250708083724_init.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Migrations\\20250708083724_init.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Migrations\\20250708083724_init.cs",
+              "RelativeToolTip": "PlayerManagement\\Migrations\\20250708083724_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:37:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BloodGroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\BloodGroupsController.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Controllers\\BloodGroupsController.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\BloodGroupsController.cs",
+              "RelativeToolTip": "PlayerManagement\\Controllers\\BloodGroupsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:45:10.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GendersController.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\GendersController.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Controllers\\GendersController.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\GendersController.cs",
+              "RelativeToolTip": "PlayerManagement\\Controllers\\GendersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T21:34:09.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "PlayerManagement\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwLgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:39:23.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReligionsController.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\ReligionsController.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Controllers\\ReligionsController.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\ReligionsController.cs",
+              "RelativeToolTip": "PlayerManagement\\Controllers\\ReligionsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:46:12.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SportsTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\SportsTypesController.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Controllers\\SportsTypesController.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\SportsTypesController.cs",
+              "RelativeToolTip": "PlayerManagement\\Controllers\\SportsTypesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:39:04.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainingsController.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\TrainingsController.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Controllers\\TrainingsController.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Controllers\\TrainingsController.cs",
+              "RelativeToolTip": "PlayerManagement\\Controllers\\TrainingsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wBkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:14:57.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\PlayerManagement.csproj",
+              "RelativeDocumentMoniker": "PlayerManagement\\PlayerManagement.csproj",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\PlayerManagement.csproj",
+              "RelativeToolTip": "PlayerManagement\\PlayerManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T22:21:25.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "PlayerManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\appsettings.json",
+              "RelativeToolTip": "PlayerManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T21:37:47.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\DTOs\\PlayerReadDto.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\DTOs\\PlayerReadDto.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\DTOs\\PlayerReadDto.cs",
+              "RelativeToolTip": "PlayerManagement\\DTOs\\PlayerReadDto.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:23:31.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PlayerManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAYwKoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:48:42.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Models\\Training.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Models\\Training.cs",
+              "RelativeToolTip": "PlayerManagement\\Models\\Training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:44:16.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerTrainingAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Models\\PlayerTrainingAssignment.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Models\\PlayerTrainingAssignment.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Models\\PlayerTrainingAssignment.cs",
+              "RelativeToolTip": "PlayerManagement\\Models\\PlayerTrainingAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:43:49.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Models\\Player.cs",
+              "RelativeToolTip": "PlayerManagement\\Models\\Player.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAxwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:38:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Program.cs",
+              "RelativeDocumentMoniker": "PlayerManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\AngularFinalProject\\MiniProject\\PlayerManagement\\PlayerManagement\\Program.cs",
+              "RelativeToolTip": "PlayerManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:00:01.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250703220638_init.cs",
+              "DocumentMoniker": "C:\\Users\\fahim\\Desktop\\Team_Project_New\\MiniProject\\PlayerManagement\\PlayerManagement\\Migrations\\20250703220638_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Team_Project_New\\MiniProject\\PlayerManagement\\PlayerManagement\\Migrations\\20250703220638_init.cs",
+              "ToolTip": "C:\\Users\\fahim\\Desktop\\Team_Project_New\\MiniProject\\PlayerManagement\\PlayerManagement\\Migrations\\20250703220638_init.cs",
+              "RelativeToolTip": "..\\..\\..\\Team_Project_New\\MiniProject\\PlayerManagement\\PlayerManagement\\Migrations\\20250703220638_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:06:38.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
